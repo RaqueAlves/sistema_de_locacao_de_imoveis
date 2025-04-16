@@ -1,0 +1,3 @@
+
+class FoodView:
+    pass
